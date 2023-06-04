@@ -1,5 +1,5 @@
 
-# npx create-react-app
+# npx create-react-app  projectName
 
 # Getting Started with Create React App
 

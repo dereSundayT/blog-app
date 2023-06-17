@@ -1,2 +1,3 @@
-export {default as Tolu} from './NavLink'
-export {default as NavLink} from './NavLink'
+export {default as Banner} from './Banner'
+export {default as LeftHandSide} from './LeftHandSide'
+export {default as RightSideBar} from './RightSideBar'
